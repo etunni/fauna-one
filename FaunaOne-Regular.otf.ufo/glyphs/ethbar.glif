@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ethbar" format="1">
+  <advance width="352"/>
+  <outline>
+    <contour>
+      <point x="362" y="337" type="line" name="hr00"/>
+      <point x="362" y="392" type="line"/>
+      <point x="17" y="392" type="line"/>
+      <point x="17" y="337" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="337" width="55" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="545"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component  base="S"/>
+    <component  base="thinbar" xOffset="172"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-53" width="-21" />
+      <hstem pos="-13" width="64" />
+      <hstem pos="744" width="-20" />
+      <vstem pos="72" width="85" />
+      <vstem pos="82" width="75" />
+      <vstem pos="267" width="51" />
+      <vstem pos="430" width="74" />
+      <vstem pos="439" width="64" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

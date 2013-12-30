@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright" format="1">
+  <advance width="349"/>
+  <unicode hex="007D"/>
+  <outline>
+    <component  base="braceleft" xScale="-1" xOffset="349"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-57" width="64" />
+      <hstem pos="742" width="63" />
+      <vstem pos="484" width="78" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

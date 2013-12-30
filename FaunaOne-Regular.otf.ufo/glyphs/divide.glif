@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="584"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component  base="minus"/>
+    <component  base="period" xOffset="161" yOffset="138"/>
+    <component  base="period" xOffset="161" yOffset="498"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="89" width="119" />
+      <hstem pos="287" width="61" />
+      <hstem pos="418" width="119" />
+      <vstem pos="241" width="98" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
