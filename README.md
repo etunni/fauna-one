@@ -1,6 +1,6 @@
 Fauna is a modern typeface with low contrast strokes and soft terminals that form traditional serifs. Its structure is soft and slightly condensed. It reads clearly in paragraph composition and looks beautiful in headlines.
 
-![Sample of Fauna.](fauna.jpg "Fauna")
+![Fauna](documentation/fauna.jpg)
 
 ### Designer
 
